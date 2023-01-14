@@ -47,7 +47,7 @@ legend {
     top: 0px;
     left: 0px;
     pointer-events: nome;
-    transition: -5s;
+    transition: -6s;
 }
 
 .inputUser:focus~.labelInput,
